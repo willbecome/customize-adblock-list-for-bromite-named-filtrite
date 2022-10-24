@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/willbecome/nano-adblock/main/yt_annoyances_ful
 
 #Over 250k rules
 #https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts
-https://raw.githubusercontent.com/willbecome/nano-adblock/main/EnergizedProtection.txt
+#https://raw.githubusercontent.com/willbecome/nano-adblock/main/EnergizedProtection.txt
 #https://raw.githubusercontent.com/willbecome/nano-adblock/main/MoaAdblock.txt
 
 #Anti-Adblock Killer
