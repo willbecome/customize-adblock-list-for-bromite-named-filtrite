@@ -1,6 +1,3 @@
-# Default entries from https://github.com/bromite/filters/blob/master/lists.txt
-
-
 #General Adblock for VNese area
 https://abpvn.com/vip/VoTuanAnh.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
@@ -16,7 +13,7 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
 
 #General Global
-https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+#https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 #https://easylist.to/easylist/easylist.txt
 
 #Youtube
@@ -30,7 +27,7 @@ https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlis
 #https://raw.githubusercontent.com/willbecome/nano-adblock/main/MoaAdblock.txt
 
 #Anti-Adblock Killer
-https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt
+#https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
 #https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 #https://easylist-msie.adblockplus.org/antiadblockfilters.txt
