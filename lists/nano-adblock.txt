@@ -1,12 +1,5 @@
 # Default entries from https://github.com/bromite/filters/blob/master/lists.txt
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
-https://easylist.to/easylist/easylist.txt
-https://easylist.to/easylist/easyprivacy.txt
-https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
+
 
 #General Adblock for VNese area
 https://abpvn.com/vip/VoTuanAnh.txt
@@ -32,9 +25,9 @@ https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlis
 https://raw.githubusercontent.com/willbecome/nano-adblock/main/yt_annoyances_full.txt
 
 #Over 250k rules
-https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts
+#https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts
 https://raw.githubusercontent.com/willbecome/nano-adblock/main/EnergizedProtection.txt
-https://raw.githubusercontent.com/willbecome/nano-adblock/main/MoaAdblock.txt
+#https://raw.githubusercontent.com/willbecome/nano-adblock/main/MoaAdblock.txt
 
 #Anti-Adblock Killer
 https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt
