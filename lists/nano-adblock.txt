@@ -4,7 +4,7 @@
 #General Adblock for VNese area
 https://abpvn.com/vip/VoTuanAnh.txt
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
-https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
+#https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
 https://malware-filter.gitlab.io/malware-filter/vn-badsite-filter.txt
 
 #Adguard lists
@@ -22,7 +22,7 @@ https://easylist.to/easylist/easylist.txt
 #Youtube
 https://raw.githubusercontent.com/kbinani/adblock-youtube-ads/master/signed.txt
 https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
-https://raw.githubusercontent.com/willbecome/nano-adblock/main/yt_annoyances_full.txt
+#https://raw.githubusercontent.com/willbecome/nano-adblock/main/yt_annoyances_full.txt
 
 #Over 250k rules
 #https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts
@@ -32,6 +32,6 @@ https://raw.githubusercontent.com/willbecome/nano-adblock/main/yt_annoyances_ful
 #Anti-Adblock Killer
 https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt
 https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
-https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
-https://easylist-msie.adblockplus.org/antiadblockfilters.txt
+#https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
+#https://easylist-msie.adblockplus.org/antiadblockfilters.txt
 https://raw.githubusercontent.com/NanoAdblocker/NanoFilters/master/NanoMirror/NanoDefender.txt
