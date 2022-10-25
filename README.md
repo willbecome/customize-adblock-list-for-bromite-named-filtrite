@@ -1,5 +1,5 @@
-## filtrite
-filtrite is a project for generating filter lists for [Bromite](https://www.bromite.org/). See the page about [Custom Ad Block Filters](https://www.bromite.org/custom-filters) for more info.
+## Filtrite
+Filtrite là dự án mình copy lại từ xarantolus (https://github.com/xarantolus/filtrite). Đây là dự án mã nguồn mở dùng để tạo ra file adblock cho duyệt trình Bromite [Bromite](https://www.bromite.org/). Các bạn có thể xem thêm ở trang này để biết thêm chi tiết [Custom Ad Block Filters](https://www.bromite.org/custom-filters).
 
 # Lists
 You can choose any list from the table, then hold the name to copy its link. Add it to Bromite by going to settings > AdBlock settings, then setting "Filters URL" to the link you just copied.
