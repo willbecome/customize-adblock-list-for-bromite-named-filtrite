@@ -19,12 +19,12 @@ https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/fil
 #Youtube
 https://raw.githubusercontent.com/kbinani/adblock-youtube-ads/master/signed.txt
 https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
-#https://raw.githubusercontent.com/willbecome/nano-adblock/main/yt_annoyances_full.txt
+#https://raw.githubusercontent.com/willbecome/nanoz/main/yt_annoyances_full.txt
 
 #Over 250k rules
 #https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts
-#https://raw.githubusercontent.com/willbecome/nano-adblock/main/EnergizedProtection.txt
-#https://raw.githubusercontent.com/willbecome/nano-adblock/main/MoaAdblock.txt
+#https://raw.githubusercontent.com/willbecome/nanoz/main/EnergizedProtection.txt
+#https://raw.githubusercontent.com/willbecome/nanoz/MoaAdblock.txt
 
 #Anti-Adblock Killer
 #https://raw.githubusercontent.com/Yuki2718/adblock/master/adguard/anti-antiadb.txt
