@@ -2,7 +2,9 @@
 Filtrite là dự án mình copy lại từ xarantolus (https://github.com/xarantolus/filtrite). Đây là dự án mã nguồn mở dùng để tạo ra file adblock cho duyệt trình Bromite [Bromite](https://www.bromite.org/). Các bạn có thể xem thêm ở trang này để biết thêm chi tiết [Custom Ad Block Filters](https://www.bromite.org/custom-filters).
 # Hướng dẫn sử dụng
 Để trực tiếp và cụ thể mình viết tiếp luôn phần hướng dẫn tại đây. Thay vì dịch lại toàn bộ lời của tác giả.
+
 Bước 1: Các bạn cần tạo 1 file adblock của riêng mình và file này định dạng ở "filename.txt" (filename bạn đặt tên gì cũng được ví dụ: adblock.txt, chanquangcao.txt)
+
 Bước 2: Mở filename.txt và bắt đầu viết nội dung. Nội dung ở đây sẽ là đường link url để truy cập đến các danh sách chặn quảng cáo.
 # Lists
 You can choose any list from the table, then hold the name to copy its link. Add it to Bromite by going to settings > AdBlock settings, then setting "Filters URL" to the link you just copied.
